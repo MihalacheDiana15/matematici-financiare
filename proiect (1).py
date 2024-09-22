@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 29 14:24:27 2022
-
-@author: PETRE
-"""
 pip install yfinance
 pip install getFamaFrenchFactors
 
